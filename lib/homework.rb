@@ -2,6 +2,6 @@ require "homework/version"
 
 module Homework
  def yaz
-     puts "Merhaba!"
+     puts 'Merhaba!'
  end
 end
